@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ByronGG\\.nuget\\packages\\": {}
+    "C:\\Users\\Reyna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vscode\\DotNet\\ASPNET_Proyecto\\ASPNET_Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\Reyna\\Documents\\GitHub\\ASPNET_Proyecto\\ASPNET_Proyecto.csproj",
       "projectName": "ASPNET_Proyecto",
-      "projectPath": "C:\\vscode\\DotNet\\ASPNET_Proyecto\\ASPNET_Proyecto.csproj",
-      "packagesPath": "C:\\Users\\ByronGG\\.nuget\\packages\\",
-      "outputPath": "C:\\vscode\\DotNet\\ASPNET_Proyecto\\obj\\",
+      "projectPath": "C:\\Users\\Reyna\\Documents\\GitHub\\ASPNET_Proyecto\\ASPNET_Proyecto.csproj",
+      "packagesPath": "C:\\Users\\Reyna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Reyna\\Documents\\GitHub\\ASPNET_Proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ByronGG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Reyna\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
